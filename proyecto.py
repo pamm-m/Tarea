@@ -1,6 +1,6 @@
 
 # Programa: Generador de Datos Ficticios con Faker
-# Autor: Felipe (estudiante)
+# Autor: Pamela Cascante
 # Descripción:
 #   Este programa utiliza la biblioteca Faker para generar
 #   datos de prueba como nombres, correos, direcciones y
@@ -49,3 +49,4 @@ if __name__ == "__main__":
         print(f"  Fecha de nacimiento: {usuario['fecha_nacimiento']}\n")
 
     print("Datos generados correctamente utilizando la biblioteca Faker.")
+
